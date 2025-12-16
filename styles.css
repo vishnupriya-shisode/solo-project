@@ -1,0 +1,20 @@
+div {
+    background-image: url("images/Abad.jpeg");
+    height: 500px;
+    width: 100%;
+    background-size: cover;
+    border-radius: 20px;
+}
+h1 {
+    color: white;
+    text-align: center;
+    padding-top: 200px;
+    font-size: 50px;
+    text-shadow: 2px 2px 4px #000000;
+}
+p {
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    text-shadow: 1px 1px 2px #000000;
+}
