@@ -23,6 +23,10 @@ h2 {
     text-shadow: 1px 1px 2px #000000;
 }
 
+.item {
+    width: 300px;
+}
+
 .item img {
     width: 120px;
     height: 120px;
@@ -36,4 +40,105 @@ h2 {
     text-align: center;
     margin-top: 40px;
 }
-    
+
+.item p {
+    margin-top: 12px;
+    font-weight: 14px;
+}
+
+/* .card {
+    display: flex;
+    align-items: center;          
+    gap: 25px;                   
+
+    background-color: #b7dcdc;
+    width: 520px;                 
+    padding: 25px 30px;
+    margin: 60px auto;
+
+    border-radius: 12px;
+}
+
+
+.card img {
+    width: 140px;
+    height: 140px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+
+.guide {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;      
+    text-align: left;
+}
+
+.guide h3 {
+    margin: 0 0 10px 0;
+    font-size: 20px;
+}
+
+.guide p {
+    line-height: 1.6;               
+    margin: 0;
+}
+
+.guide-name {
+    margin-top: 12px;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+
+.quote {
+    margin: 0;
+    font-size: 14px;
+    line-height: 1.4;
+    font-style: italic;
+} */
+
+.card-main {
+    margin: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.card {
+    display: flex;
+    gap: 20px;
+
+    width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+
+    color: #2b2839;
+    background-color: #ddebf8;
+    border-bottom: 10px solid #d8cefe;
+}
+
+.card img {
+    width: 340px;
+    height: 440px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.card div {
+    text-align: left;
+}
+
+.guide {
+    margin: 0 0 8px 0;
+    font-size: 22px;
+}
+
+.quote {
+    margin: 0 0 10px 0;
+    line-height: 1.5;
+}
+
+.guide-name {
+    margin: 0;
+    font-weight: bold;
+}
