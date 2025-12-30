@@ -102,43 +102,48 @@ h2 {
 .card-main {
     margin: 10px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
 }
 
 .card {
     display: flex;
-    gap: 20px;
-
+    gap: 30px;
     width: 600px;
     margin: 0 auto;
-    padding: 20px;
-
+    padding: 10px;
+    align-items: flex-start;
     color: #2b2839;
     background-color: #ddebf8;
     border-bottom: 10px solid #d8cefe;
 }
 
 .card img {
-    width: 340px;
-    height: 440px;
+    width: 300px;
+    height: 400px;
     object-fit: cover;
     border-radius: 10px;
+    padding: 10px 0 10px 10px;
 }
 
 .card div {
-    text-align: left;
+    /* text-align: left; */
 }
 
-.guide {
-    margin: 0 0 8px 0;
-    font-size: 22px;
+.guide  {
+    margin: 0 0 10px 0;
+    font-size: 30px;
+    padding: 70px 0 30px;
 }
 
 .quote {
     margin: 0 0 10px 0;
     line-height: 1.5;
+    padding-bottom: 30px;
+    font-size:18px;
 }
 
 .guide-name {
     margin: 0;
     font-weight: bold;
+    padding-top: 20px;
 }
