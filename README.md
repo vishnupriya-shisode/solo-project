@@ -48,7 +48,7 @@ This project was built to strengthen fundamentals in layout, spacing, and Flexbo
 
 ## 🙏 Acknowledgements
 This project was built with the help of learning resources from:
-- FreeCodeCamp
+- FreeCodeCamp --> https://www.youtube.com/@freecodecamp
 - Scrimba
 
 Both platforms helped me understand HTML, CSS, and layout concepts in a clear and beginner-friendly way.
